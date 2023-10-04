@@ -2,9 +2,9 @@ public class MethodParameter {
   public static void main(String[] args) {
 
 
-    sayHello("Eko", "Kurniawan");
-    sayHello("Budi", "Nugraha");
-    sayHello("Joko", "Nugroho");
+    sayHello("Daud", "Manurung");
+    sayHello("Jona", "Julu");
+    sayHello("Fatwa", "MUI");
 
   }
 

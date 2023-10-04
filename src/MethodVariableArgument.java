@@ -2,9 +2,9 @@ public class MethodVariableArgument {
   public static void main(String[] args) {
 
     int[] values = {80, 50, 50, 50, 80};
-    sayCongrats("Eko", values);
+    sayCongrats("Daud", values);
 
-    sayCongrats("Budi", 80, 90, 76, 80);
+    sayCongrats("Tools", 80, 90, 76, 80);
 
   }
 

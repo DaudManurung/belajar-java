@@ -4,9 +4,9 @@ public class Array {
     String[] stringArray;
     stringArray = new String[3];
 
-    stringArray[0] = "Eko";
-    stringArray[1] = "Kurniawan";
-    stringArray[2] = "Khannedy";
+    stringArray[0] = "Daud";
+    stringArray[1] = "Manurung";
+    stringArray[2] = "Tools";
 
     System.out.println(stringArray[0]);
     System.out.println(stringArray[1]);
@@ -19,7 +19,7 @@ public class Array {
     String[] stringArray2 = new String[3];
 
     String[] namaNama = {
-        "Eko", "Kurniawan", "Khannedy"
+        "Daud", "Manurung", "Tools"
     };
 
     namaNama[0] = null;
@@ -37,8 +37,8 @@ public class Array {
     System.out.println(arrayLong.length);
 
     String[][] members = {
-        {"Eko", "Kurniawan"},
-        {"Budi", "Nugraha"},
+        {"Daud", "Manurung"},
+        {"Jona", "Julu"},
         {"Joko"}
     };
 

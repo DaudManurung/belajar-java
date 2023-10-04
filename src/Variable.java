@@ -2,7 +2,7 @@ public class Variable {
   public static void main(String[] args) {
 
     String name;
-    name = "Eko Kurniawan Khannedy";
+    name = "Daud Man";
 
     System.out.println(name);
 
@@ -12,12 +12,12 @@ public class Variable {
     System.out.println(age);
     System.out.println(address);
 
-    name = "Budi Nugraha";
+    name = "Tools";
     System.out.println(name);
 
-    var firstName = "Eko";
-    var middleName = "Kurniawan";
-    var lastName = "Khannedy";
+    var firstName = "Daud";
+    var middleName = "Manru";
+    var lastName = "";
 
     final String application = "Belajar Java";
 

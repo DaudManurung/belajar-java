@@ -2,8 +2,8 @@ public class TipeDataString {
 
   public static void main(String[] args) {
 
-    String firstName = "Eko Kurniawan";
-    String lastName = "Khannedy";
+    String firstName = "Daud";
+    String lastName = "Manurung";
 
     String fullName = firstName + " " + lastName;
 
